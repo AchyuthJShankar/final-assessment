@@ -1,5 +1,7 @@
 package mouseActions;
 
+//Code for Hover mouse action
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;

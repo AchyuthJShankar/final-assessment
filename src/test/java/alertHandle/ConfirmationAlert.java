@@ -1,5 +1,5 @@
 package alertHandle;
-
+//Code for Confirmation Alert
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.Alert;

@@ -1,5 +1,7 @@
 package oopsPrograms;
 
+//Code for Abstract class and method
+
 abstract class AbC{ //Abstract class
 	abstract void fun1(); //Abstract method
 	void fun2() { //non abstract method

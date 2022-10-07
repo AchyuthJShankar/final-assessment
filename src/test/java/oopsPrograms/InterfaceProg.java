@@ -1,5 +1,7 @@
 package oopsPrograms;
 
+//Code for Interface
+
 
 interface IfC{
 	//int x=4; //"public static final int x;" - added by java compiler

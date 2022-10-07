@@ -1,5 +1,7 @@
 package mouseActions;
 
+//Code for Drag and Drop Mouse Action
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;

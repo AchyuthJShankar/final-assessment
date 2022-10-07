@@ -1,5 +1,7 @@
 package oopsPrograms;
 
+//Code for Inheritance 
+
 class GrandParent{
 	void m1() {
 		System.out.println("MULTI LEVEL INHERTITANCE");
