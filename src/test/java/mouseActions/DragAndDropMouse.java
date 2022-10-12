@@ -15,7 +15,7 @@ public class DragAndDropMouse {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "C:\\Achyuth\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://jqueryui.com/droppable/");
+		driver.get("https://jqueryui.com/droppable/"); //Website to navigate
 		driver.manage().window().maximize();
 		driver.switchTo().frame(driver.findElement(By.className("demo-frame")));
 		Actions mouse3 = new Actions(driver);
