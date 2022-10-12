@@ -18,7 +18,7 @@ public class ExceptionHandling {
 		}
 		
 		finally {
-			System.out.println("always executed");
+			System.out.println("always executed"); //it will be executed always
 		}
 	}
 
