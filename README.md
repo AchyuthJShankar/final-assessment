@@ -5,4 +5,4 @@ path to see those
 
 Cucumber feature files are present inside "Features" folder.
 
-To run all TestNG files at once, run "testng.xml" 
+To run all TestNG files at once, run "testng.xml". 
