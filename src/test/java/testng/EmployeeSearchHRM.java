@@ -2,6 +2,7 @@ package testng;
 
 //TestNG file for Employee search and usage of Method overloading
 
+import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;

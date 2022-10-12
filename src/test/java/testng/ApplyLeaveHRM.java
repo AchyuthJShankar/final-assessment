@@ -2,6 +2,7 @@ package testng;
 
 //TestNG file for Leave Application
 
+import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
